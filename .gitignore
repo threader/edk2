@@ -6,3 +6,16 @@ __pycache__/
 tags/
 .vscode/
 .venv/
+CryptoPkg/Library/OpensslLib/openssl
+ArmPkg/Library/ArmSoftFloatLib/berkeley-softfloat-3
+UnitTestFrameworkPkg/Library/CmockaLib/cmocka
+MdeModulePkg/Universal/RegularExpressionDxe/oniguruma
+MdeModulePkg/Library/BrotliCustomDecompressLib/brotli
+BaseTools/Source/C/BrotliCompress/brotli
+RedfishPkg/Library/JsonLib/jansson
+UnitTestFrameworkPkg/Library/GoogleTestLib/googletest
+UnitTestFrameworkPkg/Library/SubhookLib/subhook
+MdePkg/Library/BaseFdtLib/libfdt
+MdePkg/Library/MipiSysTLib/mipisyst
+CryptoPkg/Library/MbedTlsLib/mbedtls
+SecurityPkg/DeviceSecurity/SpdmLib/libspdm
